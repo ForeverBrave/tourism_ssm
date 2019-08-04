@@ -1,0 +1,12 @@
+com\it\ssm\service\ISysLogService.class
+com\it\ssm\service\impl\SysLogServiceImpl.class
+com\it\ssm\service\impl\OrdersServiceImpl.class
+com\it\ssm\service\IProductService.class
+com\it\ssm\service\impl\UserServiceImpl.class
+com\it\ssm\service\impl\PermissionServiceImpl.class
+com\it\ssm\service\impl\RoleServiceImpl.class
+com\it\ssm\service\IRoleService.class
+com\it\ssm\service\impl\ProductServiceImpl.class
+com\it\ssm\service\IOrdersService.class
+com\it\ssm\service\IUserService.class
+com\it\ssm\service\IPermissionService.class
